@@ -11,7 +11,6 @@ This program is a token contract written in Solidity, a programming language use
 
 To run this program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
-nction and retrieve the "Hello World!" message.
 
 ## Authors
 
